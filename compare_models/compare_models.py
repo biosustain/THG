@@ -1,7 +1,7 @@
 from functions_compare_models import *
 
 
-model = read_sbml_model('models/THG-2023-02-14-2.xml') # new model
+model = read_sbml_model('models/THG-2023-02-25.xml') # new model
 model2 = read_sbml_model('models/Human-GEM_2022-06-21.xml') # org. model
 
 

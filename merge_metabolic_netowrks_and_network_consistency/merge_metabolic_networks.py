@@ -7,9 +7,9 @@ from functions_merge_metabolic_networks import *
 
 
 # Input parameters
-GEM1 = 'models/Human1.5_2023-02-09_rebalance.xml'
-GEM2 = 'models/H1-compartments_DB-2023-02-10_no_cientific_notation_st_coef-rebalanced.xml' # H1-compartments_DB_2.xml with changes in the stoichiometry of reaction R10677_c, R_R00912_c, R_R01954_c and R01991_c to move it from scientific notation a regular float notation
-Output = 'models/THG.xml'
+GEM1 = 'models/THG-beta2.xml'
+GEM2 = 'models/Human Database.xml'
+Output = 'models/THG-2023-02-25.xml'
 
 
 # Loading the input data

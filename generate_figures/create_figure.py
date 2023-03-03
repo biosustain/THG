@@ -3,9 +3,9 @@ from functions_create_figure import *
 # Load Models
 
 model1 = cobra.io.read_sbml_model('models/Human-GEM_2022-06-21.xml')
-model12 = cobra.io.read_sbml_model('models/THG_beta1.xml')
-model15 = cobra.io.read_sbml_model('models/THG_beta2.xml')
-modelTHG = cobra.io.read_sbml_model('models/THG-2-2023-02-25.xml')
+model12 = cobra.io.read_sbml_model('models/THG-beta1.xml')
+model15 = cobra.io.read_sbml_model('models/THG-beta2.xml')
+modelTHG = cobra.io.read_sbml_model('models/THG-2023-02-25.xml')
 
 file = 'reports/THG-beta-1_vs_Human1.xlsx'
 # file = 'reports/THG-beta-2_vs_Human1.xlsx'

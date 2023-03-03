@@ -10,4 +10,6 @@ Model Maintainer
 Contributors
 ------------
 
-None yet. Why not be the first?
+* `Igor Marin de Mas <igmar@biosustain.dtu.dk>`
+* `Helena Herand <helher@biosustain.dtu.dk>`
+* `Jorge Carrasco Muriel jcamu@biosustain.dtu.dk`

@@ -47,7 +47,7 @@ The different steps in the protocol can be found in different folders and can be
 
 
 
-# get_gpr and get_location
+# getGPR and getLocation
 
 First, install the repository:
 

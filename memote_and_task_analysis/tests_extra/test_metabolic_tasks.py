@@ -53,7 +53,7 @@ if __name__ == "__main__":
         sep="\t",
         comment="#",
     )
-    model = cobra.io.read_sbml_model(join(dirname(__file__), "..", "H1.21.xml"))
+    model = cobra.io.read_sbml_model(join(dirname(__file__), "..", "models/THG-2023-02-25.xml")) # other models in models folder:Human-GEM_2022-06-21.xml, THG-beta1.xml, THG-beta2.xml
     tasks = iterate_over_tasks(model, df)
     print(f"Failed -> {[task.id for task in tasks if task.result == TaskResult.FAIL]}")
     print(

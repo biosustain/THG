@@ -7,7 +7,7 @@ import re
 
 
 model = 'models/Human-GEM_2022-06-21.xml'
-database = 'models/H1-compartments_DB-2023-02-10_no_cientific_notation_st_coef-rebalanced.xml'
+database = 'models/Human Database.xml'
 
 cobra_model = cobra.io.read_sbml_model(model)
 

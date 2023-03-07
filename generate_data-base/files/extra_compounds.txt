@@ -1,0 +1,2 @@
+MetabID	Name	Formula	Chebi	LipidMap	Kegg
+"M_m00001c"	(-)-trans-carveol	C10H16O	15389		

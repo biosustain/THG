@@ -1,0 +1,201 @@
+		*Global and overview maps
+0	NDH	hsa01100  Metabolic pathways
+1	NDH	hsa01110  Biosynthesis of secondary metabolites
+2	NDH	hsa01120  Microbial metabolism in diverse environments
+3	NDH	hsa01130  Biosynthesis of antibiotics
+4	NDH	hsa01200  Carbon metabolism
+5	NDH	hsa01210  2-Oxocarboxylic acid metabolism
+6	NDH	hsa01212  Fatty acid metabolism
+7	NDH	hsa01230  Biosynthesis of amino acids
+8	NDH	hsa01220  Degradation of aromatic compounds
+		
+		*Carbohydrate metabolism
+9	OK	hsa00010  Glycolysis / Gluconeogenesis
+10	OK	hsa00020  Citrate cycle (TCA cycle)
+11	OK	hsa00030  Pentose phosphate pathway
+12	OK	hsa00040  Pentose and glucuronate interconversions
+13	OK	hsa00051  Fructose and mannose metabolism
+14	OK	hsa00052  Galactose metabolism
+15	OK	hsa00053  Ascorbate and aldarate metabolism
+16	OK	hsa00500  Starch and sucrose metabolism
+17	OK	hsa00520  Amino sugar and nucleotide sugar metabolism
+18	OK	hsa00620  Pyruvate metabolism
+19	OK	hsa00630  Glyoxylate and dicarboxylate metabolism
+20	OK	hsa00640  Propanoate metabolism
+21	OK	hsa00650  Butanoate metabolism
+22	OK	hsa00660  C5-Branched dibasic acid metabolism
+23	OK	hsa00562  Inositol phosphate metabolism
+		
+		*Energy metabolism
+24	OK	hsa00190  Oxidative phosphorylation
+25	NDH	hsa00195  Photosynthesis
+26	NDH	hsa00196  Photosynthesis - antenna proteins
+27	NDH	hsa00710  Carbon fixation in photosynthetic organisms
+28	NDH	hsa00720  Carbon fixation pathways in prokaryotes
+29	NDH	hsa00680  Methane metabolism
+30	OK	hsa00910  Nitrogen metabolism
+31	OK	hsa00920  Sulfur metabolism
+		
+		*Lipid metabolism
+32	OK	hsa00061  Fatty acid biosynthesis
+33	OK	hsa00062  Fatty acid elongation
+34	OK	hsa00071  Fatty acid degradation
+35	OK	hsa00072  Synthesis and degradation of ketone bodies
+36	NDH	hsa00073  Cutin, suberine and wax biosynthesis
+37	OK	hsa00100  Steroid biosynthesis
+38	OK	hsa00120  Primary bile acid biosynthesis
+39	NDH	hsa00121  Secondary bile acid biosynthesis
+40	OK	hsa00140  Steroid hormone biosynthesis
+41	OK	hsa00561  Glycerolipid metabolism
+42	OK	hsa00564  Glycerophospholipid metabolism
+43	OK	hsa00565  Ether lipid metabolism
+44	OK	hsa00600  Sphingolipid metabolism
+45	OK	hsa00590  Arachidonic acid metabolism
+46	OK	hsa00591  Linoleic acid metabolism
+47	OK	hsa00592  alpha-Linolenic acid metabolism
+48	OK	hsa01040  Biosynthesis of unsaturated fatty acids
+		
+		*Nucleotide metabolism
+49	E disc.	hsa00230  Purine metabolism
+50	OK	hsa00240  Pyrimidine metabolism
+		
+		*Amino acid metabolism
+51	OK	hsa00250  Alanine, aspartate and glutamate metabolism
+52	OK	hsa00260  Glycine, serine and threonine metabolism
+53	OK	hsa00270  Cysteine and methionine metabolism
+54	OK	hsa00280  Valine, leucine and isoleucine degradation
+55	OK	hsa00290  Valine, leucine and isoleucine biosynthesis
+56	OK	hsa00300  Lysine biosynthesis
+57	OK	hsa00310  Lysine degradation
+58	OK	hsa00220  Arginine biosynthesis
+59	OK	hsa00330  Arginine and proline metabolism
+60	OK	hsa00340  Histidine metabolism
+61	OK	hsa00350  Tyrosine metabolism
+62	OK	hsa00360  Phenylalanine metabolism
+63	OK	hsa00380  Tryptophan metabolism
+64	OK	hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+		
+		*Metabolism of other amino acids
+65	OK	hsa00410  beta-Alanine metabolism
+66	OK	hsa00430  Taurine and hypotaurine metabolism
+67	NDH	hsa00440  Phosphonate and phosphinate metabolism
+68	OK	hsa00450  Selenocompound metabolism
+69	OK	hsa00460  Cyanoamino acid metabolism
+70	OK	hsa00471  D-Glutamine and D-glutamate metabolism
+71	OK	hsa00472  D-Arginine and D-ornithine metabolism
+72	NDH	hsa00473  D-Alanine metabolism
+73	OK	hsa00480  Glutathione metabolism
+		
+		*Glycan biosynthesis and metabolism
+74	OK	hsa00510  N-Glycan biosynthesis
+75	NDH	hsa00513  Various types of N-glycan biosynthesis
+76	OK	hsa00512  Mucin type O-Glycan biosynthesis
+77	MDH	hsa00514  Other types of O-glycan biosynthesis
+78	OK	hsa00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+79	OK	hsa00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+80	NDH	hsa00533  Glycosaminoglycan biosynthesis - keratan sulfate
+81	OK	hsa00531  Glycosaminoglycan degradation
+82	OK	hsa00563  Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+83	OK	hsa00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+84	OK	hsa00603  Glycosphingolipid biosynthesis - globo series
+85	OK	hsa00604  Glycosphingolipid biosynthesis - ganglio series
+86	OK	hsa00540  Lipopolysaccharide biosynthesis
+87	OK	hsa00550  Peptidoglycan biosynthesis
+88	OK	hsa00511  Other glycan degradation
+		
+		*Metabolism of cofactors and vitamins
+89	OK	hsa00730  Thiamine metabolism
+90	OK	hsa00740  Riboflavin metabolism
+91	OK	hsa00750  Vitamin B6 metabolism
+92	OK	hsa00760  Nicotinate and nicotinamide metabolism
+93	OK	hsa00770  Pantothenate and CoA biosynthesis
+94	OK	hsa00780  Biotin metabolism
+95	OK	hsa00785  Lipoic acid metabolism
+96	OK	hsa00790  Folate biosynthesis
+97	OK	hsa00670  One carbon pool by folate
+98	OK	hsa00830  Retinol metabolism
+99	OK	hsa00860  Porphyrin and chlorophyll metabolism
+100	OK	hsa00130  Ubiquinone and other terpenoid-quinone biosynthesis
+		
+		*Metabolism of terpenoids and polyketides
+101	OK	hsa00900  Terpenoid backbone biosynthesis
+102	NDH	hsa00902  Monoterpenoid biosynthesis
+103	NDH	hsa00909  Sesquiterpenoid and triterpenoid biosynthesis
+104	NDH	hsa00904  Diterpenoid biosynthesis
+105	NDH	hsa00906  Carotenoid biosynthesis
+106	NDH	hsa00905  Brassinosteroid biosynthesis
+107	NDH	hsa00981  Insect hormone biosynthesis
+108	NDH	hsa00908  Zeatin biosynthesis
+109	NDH	hsa00903  Limonene and pinene degradation
+110	NDH	hsa00281  Geraniol degradation
+111	NDH	hsa01052  Type I polyketide structures
+112	NDH	hsa00522  Biosynthesis of 12-, 14- and 16-membered macrolides
+113	NDH	hsa01051  Biosynthesis of ansamycins
+114	NDH	hsa01056  Biosynthesis of type II polyketide backbone
+115	NDH	hsa01057  Biosynthesis of type II polyketide products
+116	NDH	hsa00253  Tetracycline biosynthesis
+117	NDH	hsa00523  Polyketide sugar unit biosynthesis
+118	NDH	hsa01054  Nonribosomal peptide structures
+119	NDH	hsa01053  Biosynthesis of siderophore group nonribosomal peptides
+120	NDH	hsa01055  Biosynthesis of vancomycin group antibiotics
+		
+		*Biosynthesis of other secondary metabolites
+121	NDH	hsa00940  Phenylpropanoid biosynthesis
+122	NDH	hsa00945  Stilbenoid, diarylheptanoid and gingerol biosynthesis
+123	NDH	hsa00941  Flavonoid biosynthesis
+124	NDH	hsa00944  Flavone and flavonol biosynthesis
+125	NDH	hsa00942  Anthocyanin biosynthesis
+126	NDH	hsa00943  Isoflavonoid biosynthesis
+127	NDH	hsa00901  Indole alkaloid biosynthesis
+128	NDH	hsa00403  Indole diterpene alkaloid biosynthesis
+129	NDH	hsa00950  Isoquinoline alkaloid biosynthesis
+130	NDH	hsa00960  Tropane, piperidine and pyridine alkaloid biosynthesis
+131	NDH	hsa01058  Acridone alkaloid biosynthesis
+132	OK	hsa00232  Caffeine metabolism
+133	NDH	hsa00965  Betalain biosynthesis
+134	NDH	hsa00966  Glucosinolate biosynthesis
+135	NDH	hsa00402  Benzoxazinoid biosynthesis
+136	NDH	hsa00311  Penicillin and cephalosporin biosynthesis
+137	NDH	hsa00332  Carbapenem biosynthesis
+138	NDH	hsa00261  Monobactam biosynthesis
+139	NDH	hsa00331  Clavulanic acid biosynthesis
+140	NDH	hsa00521  Streptomycin biosynthesis
+141	OK	hsa00524  Butirosin and neomycin biosynthesis
+142	NDH	hsa00231  Puromycin biosynthesis
+143	NDH	hsa00401  Novobiocin biosynthesis
+144	NDH	hsa00254  Aflatoxin biosynthesis
+		
+		*Xenobiotics biodegradation and metabolism
+145	NDH	hsa00362  Benzoate degradation
+146	NDH	hsa00627  Aminobenzoate degradation
+147	NDH	hsa00364  Fluorobenzoate degradation
+148	NDH	hsa00625  Chloroalkane and chloroalkene degradation
+149	NDH	hsa00361  Chlorocyclohexane and chlorobenzene degradation
+150	NDH	hsa00623  Toluene degradation
+151	NDH	hsa00622  Xylene degradation
+152	NDH	hsa00633  Nitrotoluene degradation
+153	NDH	hsa00642  Ethylbenzene degradation
+154	NDH	hsa00643  Styrene degradation
+155	NDH	hsa00791  Atrazine degradation
+156	NDH	hsa00930  Caprolactam degradation
+157	NDH	hsa00351  DDT degradation
+158	NDH	hsa00363  Bisphenol degradation
+159	NDH	hsa00621  Dioxin degradation
+160	NDH	hsa00626  Naphthalene degradation
+161	NDH	hsa00624  Polycyclic aromatic hydrocarbon degradation
+162	NDH	hsa00365  Furfural degradation
+163	NDH	hsa00984  Steroid degradation
+164	NDH	hsa00980  Metabolism of xenobiotics by cytochrome P450
+165	OK	hsa00982  Drug metabolism - cytochrome P450
+166	OK	hsa00983  Drug metabolism - other enzymes
+		
+		*Chemical structure transformation maps
+167	NDH	hsa01010  Overview of biosynthetic pathways
+168	NDH	hsa01060  Biosynthesis of plant secondary metabolites
+169	NDH	hsa01061  Biosynthesis of phenylpropanoids
+170	NDH	hsa01062  Biosynthesis of terpenoids and steroids
+171	NDH	hsa01063  Biosynthesis of alkaloids derived from shikimate pathway
+172	NDH	hsa01064  Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+173	NDH	hsa01065  Biosynthesis of alkaloids derived from histidine and purine
+174	NDH	hsa01066  Biosynthesis of alkaloids derived from terpenoid and polyketide
+175	NDH	hsa01070  Biosynthesis of plant hormones

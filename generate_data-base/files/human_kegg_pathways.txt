@@ -1,0 +1,86 @@
+hsa00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+hsa00480	Glutathione metabolism
+hsa00510	N-Glycan biosynthesis
+hsa00512	Mucin type O-Glycan biosynthesis
+hsa00514	Other types of O-glycan biosynthesis
+hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+hsa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+hsa00531	Glycosaminoglycan degradation
+hsa00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+hsa00603	Glycosphingolipid biosynthesis - globo series
+hsa00604	Glycosphingolipid biosynthesis - ganglio series
+hsa00540	Lipopolysaccharide biosynthesis
+hsa00550	Peptidoglycan biosynthesis
+hsa00511	Other glycan degradation
+hsa00010	Glycolysis / Gluconeogenesis
+hsa00020	Citrate cycle (TCA cycle)
+hsa00030	Pentose phosphate pathway
+hsa00040	Pentose and glucuronate interconversions
+hsa00051	Fructose and mannose metabolism
+hsa00052	Galactose metabolism
+hsa00053	Ascorbate and aldarate metabolism
+hsa00500	Starch and sucrose metabolism
+hsa00520	Amino sugar and nucleotide sugar metabolism
+hsa00620	Pyruvate metabolism
+hsa00630	Glyoxylate and dicarboxylate metabolism
+hsa00640	Propanoate metabolism
+hsa00650	Butanoate metabolism
+hsa00660	C5-Branched dibasic acid metabolism
+hsa00562	Inositol phosphate metabolism
+hsa00190	Oxidative phosphorylation
+hsa00910	Nitrogen metabolism
+hsa00920	Sulfur metabolism
+hsa00061	Fatty acid biosynthesis
+hsa00062	Fatty acid elongation
+hsa00071	Fatty acid degradation
+hsa00072	Synthesis and degradation of ketone bodies
+hsa00100	Steroid biosynthesis
+hsa00120	Primary bile acid biosynthesis
+hsa00140	Steroid hormone biosynthesis
+hsa00561	Glycerolipid metabolism
+hsa00564	Glycerophospholipid metabolism
+hsa00565	Ether lipid metabolism
+hsa00600	Sphingolipid metabolism
+hsa00591	Linoleic acid metabolism
+hsa00592	alpha-Linolenic acid metabolism
+hsa01040	Biosynthesis of unsaturated fatty acids
+hsa00230	Purine metabolism
+hsa00590	Arachidonic acid metabolism
+hsa00240	Pyrimidine metabolism
+hsa00250	Alanine, aspartate and glutamate metabolism
+hsa00260	Glycine, serine and threonine metabolism
+hsa00270	Cysteine and methionine metabolism
+hsa00280	Valine, leucine and isoleucine degradation
+hsa00290	Valine, leucine and isoleucine biosynthesis
+hsa00300	Lysine biosynthesis
+hsa00310	Lysine degradation
+hsa00220	Arginine biosynthesis
+hsa00330	Arginine and proline metabolism
+hsa00340	Histidine metabolism
+hsa00350	Tyrosine metabolism
+hsa00360	Phenylalanine metabolism
+hsa00380	Tryptophan metabolism
+hsa00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+hsa00410	beta-Alanine metabolism
+hsa00430	Taurine and hypotaurine metabolism
+hsa00450	Selenocompound metabolism
+hsa00460	Cyanoamino acid metabolism
+hsa00471	D-Glutamine and D-glutamate metabolism
+hsa00472	D-Arginine and D-ornithine metabolism
+hsa00730	Thiamine metabolism
+hsa00740	Riboflavin metabolism
+hsa00750	Vitamin B6 metabolism
+hsa00760	Nicotinate and nicotinamide metabolism
+hsa00770	Pantothenate and CoA biosynthesis
+hsa00780	Biotin metabolism
+hsa00785	Lipoic acid metabolism
+hsa00790	Folate biosynthesis
+hsa00670	One carbon pool by folate
+hsa00830	Retinol metabolism
+hsa00860	Porphyrin and chlorophyll metabolism
+hsa00130	Ubiquinone and other terpenoid-quinone biosynthesis
+hsa00900	Terpenoid backbone biosynthesis
+hsa00232	Caffeine metabolism
+hsa00524	Butirosin and neomycin biosynthesis
+hsa00982	Drug metabolism - cytochrome P450
+hsa00983	Drug metabolism - other enzymes

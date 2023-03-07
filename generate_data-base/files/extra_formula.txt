@@ -1,0 +1,20 @@
+C11522	http://www.chemspider.com/Chemical-Structure.391508.html?rid=50b88334-99e7-4f70-8432-cbbbd724806b	C29H48O		InChI=1S/C29H48O/c1-18(2)19(3)8-9-20(4)23-12-13-25-22-10-11-24-21(5)27(30)15-17-29(24,7)26(22)14-16-28(23,25)6/h10,18,20-21,23-27,30H,3,8-9,11-17H2,1-2,4-7H3/t20-,21+,23-,24+,25+,26+,27+,28-,29+/m1/s1
+C03161	http://www.biocyc.org/HUMAN/NEW-IMAGE?object=Ox-FMN-Flavoproteins&detail-level=2	C17H18N4O9P		CC1(/C(\C)=C/C2(/N(C[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-])C3(C(=NC(\C=1)=2)C(=O)[N-]C(=O)N=3)))
+C03024	http://www.biocyc.org/HUMAN/NEW-IMAGE?object=Red-FMNH2-Flavoproteins&detail-level=2	C17H21N4O9P		CC1(/C(\C)=C/C2(/N(C[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-])C3(\NC(=O)NC(=O)C(/NC(\C=1)=2)=3)))
+C00996	http://www.chemspider.com/Chemical-Structure.10128092.html?rid=001925da-5216-4699-aec0-74b17ff43b58	C36H36FN4O2R		"InChI=1S/C36H36N4O2.Fe/c1-9-25-21(5)29-15-30-23(7)27(13-11-19(3)41)35(39-30)18-36-28(14-12-20(4)42)24(8)32(40-36)17-34-26(10-2)22(6)31(38-34)16-33(25)37-29;/h9-10,15-18H,1-2,11-14H2,3-8H3;/q-2;+5/b29-15-,30-15-,31-16-,32-17-,33-16-,34-17-,35-18-,36-18-;"
+C00999	http://www.chemspider.com/Chemical-Structure.10128093.html?rid=9aacc8aa-bea5-44df-a4b9-abc9cbfd4e5d	C36H36FN4O2R		"InChI=1S/C36H36N4O2.Fe/c1-9-25-21(5)29-15-30-23(7)27(13-11-19(3)41)35(39-30)18-36-28(14-12-20(4)42)24(8)32(40-36)17-34-26(10-2)22(6)31(38-34)16-33(25)37-29;/h9-10,15-18H,1-2,11-14H2,3-8H3;/q-2;+4/b29-15-,30-15-,31-16-,32-17-,33-16-,34-17-,35-18-,36-18-;"
+C11522	http://www.chemspider.com/Chemical-Structure.391508.html?rid=50b88334-99e7-4f70-8432-cbbbd724806b	C29H48O		InChI=1S/C29H48O/c1-18(2)19(3)8-9-20(4)23-12-13-25-22-10-11-24-21(5)27(30)15-17-29(24,7)26(22)14-16-28(23,25)6/h10,18,20-21,23-27,30H,3,8-9,11-17H2,1-2,4-7H3/t20-,21+,23-,24+,25+,26+,27+,28-,29+/m1/s1
+C00001	http://www.chemspider.com/Chemical-Structure.937.html?rid=913ffff6-7631-4ed6-8488-f099b0bf0f70	H2O1	InChI=1S/H2O/h1H2
+C00080	http://www.chemspider.com/Chemical-Structure.4515072.html?rid=e288ac40-76e5-47d7-b0fe-1eb17cf8a34e&page_num=0	H	
+InChI=1S/H
+C07490	http://www.chemspider.com/Chemical-Structure.7961.html	C2H3Cl3O	InChI=1S/C2H3Cl3O/c3-2(4,5)1-6/h6H,1H2
+C11150	http://www.chemspider.com/Chemical-Structure.8278996.html?rid=4b1dc0dd-28a4-4ab3-bdd6-9360171da3be&page_num=0	C2HCl3O2
+C22154	some_string	F1S1		some_string
+C00667	some_string	C18H32O2		some_string
+C00662	some_string	C18H32O2		some_string
+C00028	some_string	R1		some_string
+C04253	some_string	C5H4O2		some_string
+C00162	some_string	C1H1O2R1		some_string
+C21758	some_string	C1H1O2		some_string
+C01356	some_string	C1H1O2R		some_string
+C22150	some_string	F2S2		some_string

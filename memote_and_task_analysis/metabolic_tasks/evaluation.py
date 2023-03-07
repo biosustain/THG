@@ -4,7 +4,7 @@ import re
 import cobra
 import pandas as pd
 
-from .task import MetabolicTask, TaskResult
+from task import MetabolicTask, TaskResult
 
 COMP_REGEX = re.compile(r"\[([a-z]+)\]")
 ARROW_REGEX = re.compile(r"<=>|=>|<=|<->|<-|->")

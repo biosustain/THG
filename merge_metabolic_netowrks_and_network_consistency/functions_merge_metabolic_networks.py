@@ -2280,7 +2280,7 @@ def network_reactions_merge_6 (network_1, network_2, n1_n2_equivalent_metabolite
                     print('imbalanced reaction not added to batch pool',reaction_n2.id)    
 
                 if mb[10] != 2: # add reactions to the model and check if it is consistent    
-                    print('reaction added to batch pool',x.id)
+                    print('reaction added to batch pool')
                     if mb[10] == 0: # re-balanced
                         new_eq = reaction_rebalanced (mb, species, Atom_ID_Inverse, network_1, network_atom_equivalent, reaction_n2)
                         reaction_n2.reaction = new_eq

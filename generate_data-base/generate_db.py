@@ -633,6 +633,8 @@ with open("files/pre_sbml_pos_comp.pk", "wb") as f:
 
 with open('files/pre_sbml_pos_comp.pk', 'rb') as f:
     data = pickle.load(f)
+#with open('files/pre_sbml_pos_comp.pk', 'rb') as f:
+#  data = f.read()
 
 model = cobra_reconstruction(
     ModName, ModID, MetList_CL, RxnList_CL, GeneList, PathNameRxn, LocVar, MetEquiv, MetList

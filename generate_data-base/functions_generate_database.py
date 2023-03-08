@@ -52,7 +52,7 @@ def compartment_file_to_dict():
 
 
 def recondict():
-    pathTo="model/Human-GEM.xml"
+    pathTo="models/Human-GEM.xml"
     with open(pathTo) as m:
         m = m.read()
         defaultdictt = defaultdict(list)

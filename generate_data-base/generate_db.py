@@ -275,7 +275,7 @@ Compound = (
     open(ModelCompounds, "r").read().split("\n")
 )  
 EF = [_f for _f in open(ExtraFormula, "r").read().split("\n") if _f]
-Output = "files/Human_Database.xml"  # Output model
+Output = "model/Human_Database.xml"  # Output model
 ModID = Output
 ModName = Output
 variablesFile = "files/model_variables.pkl"  # File where the working environment is saved

@@ -1,0 +1,3243 @@
+sbml_reaction	expected
+"<reaction metaid=""MAR9000006056"" sboTerm=""SBO:0000176"" id=""MAR9000006056"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006056"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11905""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.18""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10620ve2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02026ve2"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10056ve2"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000084207""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.18
+"<reaction metaid=""MAR9000006053"" sboTerm=""SBO:0000176"" id=""MAR9000006053"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006053"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11905""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.18""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10620sr4"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02026sr4"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10056sr4"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000213366""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.18
+"<reaction metaid=""MAR9000006049"" sboTerm=""SBO:0000176"" id=""MAR9000006049"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006049"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11905""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.18""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10620x"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02026x"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10056x"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000197448""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000008394""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.18
+"<reaction metaid=""MAR9000006047"" sboTerm=""SBO:0000176"" id=""MAR9000006047"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006047"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11905""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.18""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10620m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02026m"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10056m"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000084207""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000197448""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000008394""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.18
+"<reaction metaid=""MAR9000006046"" sboTerm=""SBO:0000176"" id=""MAR9000006046"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006046"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11905""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.18""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10620e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02026e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10056e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000065621""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000182793""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000243955""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000244067""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000174156""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000213366""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134202""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000084207""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000277656""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000099984""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000197448""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000148834""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.18
+"<reaction metaid=""MAR9000006034"" sboTerm=""SBO:0000176"" id=""MAR9000006034"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006034"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11902""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.3.1.5""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01261c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10619c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01597c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10590c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000129673""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.3.1.5
+"<reaction metaid=""MAR9000006030"" sboTerm=""SBO:0000176"" id=""MAR9000006030"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006030"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11906""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.11.1.21""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10588ag5"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM02041ag5"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10617ag5"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10618ag5"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM02040ag5"" stoichiometry=""2"" constant=""true""/>
+</listOfProducts>
+</reaction>"	1.11.1.21
+"<reaction metaid=""MAR9000006029"" sboTerm=""SBO:0000176"" id=""MAR9000006029"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006029"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11906""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.11.1.21""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10588n"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM02041n"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10617n"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10618n"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM02040n"" stoichiometry=""2"" constant=""true""/>
+</listOfProducts>
+</reaction>"	1.11.1.21
+"<reaction metaid=""MAR9000006028"" sboTerm=""SBO:0000176"" id=""MAR9000006028"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006028"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11906""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.11.1.21""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10588l"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM02041l"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10617l"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10618l"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM02040l"" stoichiometry=""2"" constant=""true""/>
+</listOfProducts>
+</reaction>"	1.11.1.21
+"<reaction metaid=""MAR9000006026"" sboTerm=""SBO:0000176"" id=""MAR9000006026"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006026"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11906""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.11.1.21""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10588c"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM02041c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10617c"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10618c"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""2"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000221914""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.11.1.21
+"<reaction metaid=""MAR9000006025"" sboTerm=""SBO:0000176"" id=""MAR9000006025"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006025"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11896""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.6.1.23""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10616n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040n"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039n"" stoichiometry=""3"" constant=""true""/>
+<speciesReference species=""MAM10599n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02759n"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000128951""/>
+</fbc:geneProductAssociation>
+</reaction>"	3.6.1.23
+"<reaction metaid=""MAR9000006024"" sboTerm=""SBO:0000176"" id=""MAR9000006024"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006024"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11896""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.6.1.23""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10616m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040m"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039m"" stoichiometry=""3"" constant=""true""/>
+<speciesReference species=""MAM10599m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02759m"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000128951""/>
+</fbc:geneProductAssociation>
+</reaction>"	3.6.1.23
+"<reaction metaid=""MAR9000006023"" sboTerm=""SBO:0000176"" id=""MAR9000006023"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006023"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11896""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.6.1.23""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10616e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039e"" stoichiometry=""3"" constant=""true""/>
+<speciesReference species=""MAM10599e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02759e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000128951""/>
+</fbc:geneProductAssociation>
+</reaction>"	3.6.1.23
+"<reaction metaid=""MAR9000006020"" sboTerm=""SBO:0000176"" id=""MAR9000006020"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006020"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11895""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.4.6""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371ru"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10613ru"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039ru"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285ru"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10616ru"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000243678""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.4.6
+"<reaction metaid=""MAR9000006015"" sboTerm=""SBO:0000176"" id=""MAR9000006015"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006015"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11895""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.4.6""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10613e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10616e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000239672""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000243678""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.4.6
+"<reaction metaid=""MAR9000006012"" sboTerm=""SBO:0000176"" id=""MAR9000006012"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006012"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11892""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.4.14""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10599e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10613e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000162368""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.4.14
+"<reaction metaid=""MAR9000006010"" sboTerm=""SBO:0000176"" id=""MAR9000006010"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006010"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11891""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.4.14""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10598n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039n"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10614n"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000162368""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.4.14
+"<reaction metaid=""MAR9000006009"" sboTerm=""SBO:0000176"" id=""MAR9000006009"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006009"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11891""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.4.14""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10598e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10614e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000162368""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.4.14
+"<reaction metaid=""MAR9000006008"" sboTerm=""SBO:0000176"" id=""MAR9000006008"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006008"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11891""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.4.14""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10598c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10614c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000162368""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.4.14
+"<reaction metaid=""MAR9000006004"" sboTerm=""SBO:0000176"" id=""MAR9000006004"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000006004"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11894""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.4.6""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371la2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10614la2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039la2"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285la2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10615la2"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000243678""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.4.6
+"<reaction metaid=""MAR9000005998"" sboTerm=""SBO:0000176"" id=""MAR9000005998"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005998"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R11893""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.17.4.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10613n"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM10378n"" stoichiometry=""1.0000003828438575"" constant=""true""/>
+<speciesReference species=""MAM02040n"" stoichiometry=""1.0000007317648418"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10614n"" stoichiometry=""1.0000005815349735"" constant=""true""/>
+<speciesReference species=""MAM10379n"" stoichiometry=""1.0000004167667311"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000167325""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000171848""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.17.4.1
+"<reaction metaid=""MAR9000005995"" sboTerm=""SBO:0000176"" id=""MAR9000005995"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005995"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08258""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.1.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10611ld2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040ld2"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10608ld2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10612ld2"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000198848""/>
+</fbc:geneProductAssociation>
+</reaction>"	3.1.1.1
+"<reaction metaid=""MAR9000005984"" sboTerm=""SBO:0000176"" id=""MAR9000005984"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005984"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08220""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.1.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10605ld2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040ld2"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10604ld2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10606ld2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01596ld2"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000198848""/>
+</fbc:geneProductAssociation>
+</reaction>"	3.1.1.1
+"<reaction metaid=""MAR9000005983"" sboTerm=""SBO:0000176"" id=""MAR9000005983"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005983"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08220""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.1.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10605e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10604e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10606e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01596e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000198848""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000172828""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	3.1.1.1
+"<reaction metaid=""MAR9000005981"" sboTerm=""SBO:0000176"" id=""MAR9000005981"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005981"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08220""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.1.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10605c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10604c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10606c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01596c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000198848""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000172828""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	3.1.1.1
+"<reaction metaid=""MAR9000005977"" sboTerm=""SBO:0000176"" id=""MAR9000005977"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005977"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08221""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.5.4.5""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10604c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10602c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02578c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000158825""/>
+</fbc:geneProductAssociation>
+</reaction>"	3.5.4.5
+"<reaction metaid=""MAR9000005971"" sboTerm=""SBO:0000176"" id=""MAR9000005971"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005971"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08240""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.205""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10580pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10585pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000178035""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.205
+"<reaction metaid=""MAR9000005970"" sboTerm=""SBO:0000176"" id=""MAR9000005970"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005970"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08240""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.205""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10580x"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552x"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040x"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10585x"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553x"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039x"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000178035""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.205
+"<reaction metaid=""MAR9000005969"" sboTerm=""SBO:0000176"" id=""MAR9000005969"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005969"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08240""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.205""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10580n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040n"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10585n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039n"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000106348""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000178035""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.205
+"<reaction metaid=""MAR9000005968"" sboTerm=""SBO:0000176"" id=""MAR9000005968"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005968"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08240""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.205""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10580e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10585e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000106348""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000178035""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.205
+"<reaction metaid=""MAR9000005965"" sboTerm=""SBO:0000176"" id=""MAR9000005965"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005965"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08233""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.1.21""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10594c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01371c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10599c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01285c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000167900""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000166548""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.1.21
+"<reaction metaid=""MAR9000005953"" sboTerm=""SBO:0000176"" id=""MAR9000005953"" reversible=""true"" fast=""false"" fbc:lowerFluxBound=""FB1N1000"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005953"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08229""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.4.2.3""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10592c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02844c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10593c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02751c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000183696""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.4.2.3
+"<reaction metaid=""MAR9000005952"" sboTerm=""SBO:0000176"" id=""MAR9000005952"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005952"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08250""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.3.1.5""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01261c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10590c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01597c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10591c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000129673""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.3.1.5
+"<reaction metaid=""MAR9000005944"" sboTerm=""SBO:0000176"" id=""MAR9000005944"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005944"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08244""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/6.3.5.2""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10585c"" stoichiometry=""1.0017158291015715"" constant=""true""/>
+<speciesReference species=""MAM01371c"" stoichiometry=""1.0112569488766177"" constant=""true""/>
+<speciesReference species=""MAM01975c"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1.0097769884655585"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1.0097769884655585"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1.0083617763224835"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10582c"" stoichiometry=""1.0155118350584122"" constant=""true""/>
+<speciesReference species=""MAM01334c"" stoichiometry=""1.0041531389035343"" constant=""true""/>
+<speciesReference species=""MAM02759c"" stoichiometry=""1.0048376205936491"" constant=""true""/>
+<speciesReference species=""MAM01974c"" stoichiometry=""1.0172739129228292"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000163655""/>
+</fbc:geneProductAssociation>
+</reaction>"	6.3.5.2
+"<reaction metaid=""MAR9000005938"" sboTerm=""SBO:0000176"" id=""MAR9000005938"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005938"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08238""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.4.2.8""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01166c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02806c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""2"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10581c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02759c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000165704""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.4.2.8
+"<reaction metaid=""MAR9000005936"" sboTerm=""SBO:0000176"" id=""MAR9000005936"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005936"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08246""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.1.1.67""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10582c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02877c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10583c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02871c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000137364""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.1.1.67
+"<reaction metaid=""MAR9000005935"" sboTerm=""SBO:0000176"" id=""MAR9000005935"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005935"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08239""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.1.1.67""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10580e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02877e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10581e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02871e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000137364""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.1.1.67
+"<reaction metaid=""MAR9000005934"" sboTerm=""SBO:0000176"" id=""MAR9000005934"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005934"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08239""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.1.1.67""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10580c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02877c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10581c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02871c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000137364""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.1.1.67
+"<reaction metaid=""MAR9000005933"" sboTerm=""SBO:0000176"" id=""MAR9000005933"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005933"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08236""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.1.1.67""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10579e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02877e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01166e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02871e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000137364""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.1.1.67
+"<reaction metaid=""MAR9000005922"" sboTerm=""SBO:0000176"" id=""MAR9000005922"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005922"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08318""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10573c"" stoichiometry=""1.0000000062825156"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02040c"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM10574c"" stoichiometry=""1.0000000031412577"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005921"" sboTerm=""SBO:0000176"" id=""MAR9000005921"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005921"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08313""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10554pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10572pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005919"" sboTerm=""SBO:0000176"" id=""MAR9000005919"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005919"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08313""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10554c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10572c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005918"" sboTerm=""SBO:0000176"" id=""MAR9000005918"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005918"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08263""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.4.1.17""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10546pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM03109pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10571pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM03106pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000171234""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.4.1.17
+"<reaction metaid=""MAR9000005911"" sboTerm=""SBO:0000176"" id=""MAR9000005911"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005911"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08310""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10567n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552n"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10568n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039n"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000187758""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000196616""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000198099""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.1
+"<reaction metaid=""MAR9000005909"" sboTerm=""SBO:0000176"" id=""MAR9000005909"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005909"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08310""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10567e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10568e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000172955""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.1
+"<reaction metaid=""MAR9000005900"" sboTerm=""SBO:0000176"" id=""MAR9000005900"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005900"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08304""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10562c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10564c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005899"" sboTerm=""SBO:0000176"" id=""MAR9000005899"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005899"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08303""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10562pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10563pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005898"" sboTerm=""SBO:0000176"" id=""MAR9000005898"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005898"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08303""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10562r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630r"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10563r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040r"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005893"" sboTerm=""SBO:0000176"" id=""MAR9000005893"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005893"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08348""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.4.3.4""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10559m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630m"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10560m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02578m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02041m"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000189221""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.4.3.4
+"<reaction metaid=""MAR9000005892"" sboTerm=""SBO:0000176"" id=""MAR9000005892"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005892"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08348""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.4.3.4""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10559c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10560c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02578c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02041c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000189221""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.4.3.4
+"<reaction metaid=""MAR9000005885"" sboTerm=""SBO:0000176"" id=""MAR9000005885"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005885"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08345""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10557pm"" stoichiometry=""1.0"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10559pm"" stoichiometry=""1.0"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005881"" sboTerm=""SBO:0000176"" id=""MAR9000005881"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005881"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08344""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10556pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039pm"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10558pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005874"" sboTerm=""SBO:0000176"" id=""MAR9000005874"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005874"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08343""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10556c"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1.000000316664255"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1.0000041606164614"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10557c"" stoichiometry=""1.0000006567851214"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005872"" sboTerm=""SBO:0000176"" id=""MAR9000005872"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005872"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08312""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10554e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10555e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005864"" sboTerm=""SBO:0000176"" id=""MAR9000005864"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005864"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08339""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10550c"" stoichiometry=""1.000002037806118"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1.0000001084875199"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1.0000042310132782"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10551c"" stoichiometry=""1.0"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005858"" sboTerm=""SBO:0000176"" id=""MAR9000005858"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005858"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R03697""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10546e"" stoichiometry=""1.012390247722723"" constant=""true""/>
+<speciesReference species=""MAM10308e"" stoichiometry=""1.014213070148675"" constant=""true""/>
+<speciesReference species=""MAM01831e"" stoichiometry=""1.012388931581887"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1.0125299326864665"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1.0125299326864665"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10547e"" stoichiometry=""1.0025894472697963"" constant=""true""/>
+<speciesReference species=""MAM10306e"" stoichiometry=""1.0007665487034654"" constant=""true""/>
+<speciesReference species=""MAM02630e"" stoichiometry=""1.0"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160868""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005857"" sboTerm=""SBO:0000176"" id=""MAR9000005857"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005857"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R03697""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10546r"" stoichiometry=""1.012390247722723"" constant=""true""/>
+<speciesReference species=""MAM10308r"" stoichiometry=""1.014213070148675"" constant=""true""/>
+<speciesReference species=""MAM01831r"" stoichiometry=""1.012388931581887"" constant=""true""/>
+<speciesReference species=""MAM02040r"" stoichiometry=""1.0125299326864665"" constant=""true""/>
+<speciesReference species=""MAM02040r"" stoichiometry=""1.0125299326864665"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10547r"" stoichiometry=""1.0025894472697963"" constant=""true""/>
+<speciesReference species=""MAM10306r"" stoichiometry=""1.0007665487034654"" constant=""true""/>
+<speciesReference species=""MAM02630r"" stoichiometry=""1.0"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000140505""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000197408""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000138109""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160868""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005855"" sboTerm=""SBO:0000176"" id=""MAR9000005855"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005855"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08281""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10543pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10545pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000187758""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000196616""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000196344""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.1
+"<reaction metaid=""MAR9000005853"" sboTerm=""SBO:0000176"" id=""MAR9000005853"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005853"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08281""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10543m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039m"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10545m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552m"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+</reaction>"	1.1.1.1
+"<reaction metaid=""MAR9000005841"" sboTerm=""SBO:0000176"" id=""MAR9000005841"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005841"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08280""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.18""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10543m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02026m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039m"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10544m"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040m"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000084207""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000197448""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000008394""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.18
+"<reaction metaid=""MAR9000005838"" sboTerm=""SBO:0000176"" id=""MAR9000005838"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005838"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08280""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.18""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10543r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02026r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10544r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040r"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000008394""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000085871""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000143198""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.18
+"<reaction metaid=""MAR9000005836"" sboTerm=""SBO:0000176"" id=""MAR9000005836"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005836"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08275""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10540pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10536pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005835"" sboTerm=""SBO:0000176"" id=""MAR9000005835"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005835"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08275""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10540r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630r"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10536r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040r"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005833"" sboTerm=""SBO:0000176"" id=""MAR9000005833"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005833"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08276""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10540pm"" stoichiometry=""3"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""2"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039pm"" stoichiometry=""7"" constant=""true""/>
+<speciesReference species=""MAM10541pm"" stoichiometry=""3"" constant=""true""/>
+<speciesReference species=""MAM10542pm"" stoichiometry=""2"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005828"" sboTerm=""SBO:0000176"" id=""MAR9000005828"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005828"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08285""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10538c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10539c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005827"" sboTerm=""SBO:0000176"" id=""MAR9000005827"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005827"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08277""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10536pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039pm"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10537pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005826"" sboTerm=""SBO:0000176"" id=""MAR9000005826"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005826"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08277""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10536r"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039r"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10537r"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005823"" sboTerm=""SBO:0000176"" id=""MAR9000005823"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005823"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08294""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10533e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10535e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160868""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005820"" sboTerm=""SBO:0000176"" id=""MAR9000005820"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005820"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08293""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10533pm"" stoichiometry=""1.000004825227391"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1.000004092355673"" constant=""true""/>
+<speciesReference species=""MAM02039pm"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM10534pm"" stoichiometry=""1.000003177731769"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005817"" sboTerm=""SBO:0000176"" id=""MAR9000005817"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005817"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08293""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10533c"" stoichiometry=""1.000004825227391"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02040c"" stoichiometry=""1.000004092355673"" constant=""true""/>
+<speciesReference species=""MAM02039c"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM10534c"" stoichiometry=""1.000003177731769"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000140505""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000197408""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000138109""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160868""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005812"" sboTerm=""SBO:0000176"" id=""MAR9000005812"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005812"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08267""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10527pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10531pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005810"" sboTerm=""SBO:0000176"" id=""MAR9000005810"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005810"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08267""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10527r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10531r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040r"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000140505""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000197408""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000138109""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160868""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005804"" sboTerm=""SBO:0000176"" id=""MAR9000005804"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005804"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08272""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10525r"" stoichiometry=""1.000003113201129"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02040r"" stoichiometry=""1.0000039984993785"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM10530r"" stoichiometry=""1.0000050391645392"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005801"" sboTerm=""SBO:0000176"" id=""MAR9000005801"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005801"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08271""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10527r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10529r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040r"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005795"" sboTerm=""SBO:0000176"" id=""MAR9000005795"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005795"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08266""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.8""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10527r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10528r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554r"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040r"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.8
+"<reaction metaid=""MAR9000005793"" sboTerm=""SBO:0000176"" id=""MAR9000005793"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005793"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R08274""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.13.32""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10525pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10526pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000007933""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.13.32
+"<reaction metaid=""MAR9000005787"" sboTerm=""SBO:0000176"" id=""MAR9000005787"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005787"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R07977""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.17.1.4""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10515c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10520c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02041c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000158125""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.17.1.4
+"<reaction metaid=""MAR9000005785"" sboTerm=""SBO:0000176"" id=""MAR9000005785"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005785"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R07939""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10524e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02555e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10515e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02554e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01831e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160868""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005780"" sboTerm=""SBO:0000176"" id=""MAR9000005780"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005780"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R07979""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.17.1.4""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10522e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10523e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02041e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000158125""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.17.1.4
+"<reaction metaid=""MAR9000005779"" sboTerm=""SBO:0000176"" id=""MAR9000005779"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005779"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R07979""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.17.1.4""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10522c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02630c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10523c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02041c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000158125""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.17.1.4
+"<reaction metaid=""MAR9000005777"" sboTerm=""SBO:0000176"" id=""MAR9000005777"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005777"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R07945""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10515pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039pm"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10520pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005776"" sboTerm=""SBO:0000176"" id=""MAR9000005776"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005776"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R07945""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10515e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02040e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039e"" stoichiometry=""2"" constant=""true""/>
+<speciesReference species=""MAM10520e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160868""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005765"" sboTerm=""SBO:0000176"" id=""MAR9000005765"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005765"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R07943""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10515pm"" stoichiometry=""1.0"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02040pm"" stoichiometry=""1.000000009423773"" constant=""true""/>
+<speciesReference species=""MAM10516pm"" stoichiometry=""1.000000001570629"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005763"" sboTerm=""SBO:0000176"" id=""MAR9000005763"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005763"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R07943""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.14.14.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM10515r"" stoichiometry=""1.0"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02040r"" stoichiometry=""1.000000009423773"" constant=""true""/>
+<speciesReference species=""MAM10516r"" stoichiometry=""1.000000001570629"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000140505""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000255974""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000197408""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000138109""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000134716""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160868""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	1.14.14.1
+"<reaction metaid=""MAR9000005758"" sboTerm=""SBO:0000176"" id=""MAR9000005758"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005758"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R09845""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/3.4.24.84""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM02898c"" stoichiometry=""1.0000143044301362"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1.0000113941516962"" constant=""true""/>
+<speciesReference species=""MAM02040c"" stoichiometry=""1.0000113941516962"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM00194c"" stoichiometry=""1.0000034429417153"" constant=""true""/>
+<speciesReference species=""MAM10425c"" stoichiometry=""1.0"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000084073""/>
+</fbc:geneProductAssociation>
+</reaction>"	3.4.24.84
+"<reaction metaid=""MAR9000005756"" sboTerm=""SBO:0000176"" id=""MAR9000005756"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005756"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R09844""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.58""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01806ma4"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10514ma4"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02898ma4"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02759ma4"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000168522""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000257365""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.58
+"<reaction metaid=""MAR9000005755"" sboTerm=""SBO:0000176"" id=""MAR9000005755"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005755"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R09844""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.58""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01806pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM10514pm"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02898pm"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02759pm"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000168522""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.58
+"<reaction metaid=""MAR9000005752"" sboTerm=""SBO:0000176"" id=""MAR9000005752"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005752"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R09249""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.91""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01806m"" stoichiometry=""1.0148845977559164"" constant=""true""/>
+<speciesReference species=""MAM02187m"" stoichiometry=""1.0144547363732648"" constant=""true""/>
+<speciesReference species=""MAM02039m"" stoichiometry=""1.0090011937716712"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01316m"" stoichiometry=""1.0065748075334502"" constant=""true""/>
+<speciesReference species=""MAM02759m"" stoichiometry=""1.0"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000148459""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000164494""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.91
+"<reaction metaid=""MAR9000005750"" sboTerm=""SBO:0000176"" id=""MAR9000005750"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005750"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R05556""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.87""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01806dd2"" stoichiometry=""1.0035167206040994"" constant=""true""/>
+<speciesReference species=""MAM02187dd2"" stoichiometry=""1.0170873786407768"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM10513dd2"" stoichiometry=""1.006990291262136"" constant=""true""/>
+<speciesReference species=""MAM02759dd2"" stoichiometry=""1.0"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000117682""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.87
+"<reaction metaid=""MAR9000005741"" sboTerm=""SBO:0000176"" id=""MAR9000005741"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005741"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R01658""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01706zd"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02187zd"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02759zd"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01953zd"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160752""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.1
+"<reaction metaid=""MAR9000005740"" sboTerm=""SBO:0000176"" id=""MAR9000005740"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005740"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R01658""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.5.1.1""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01706n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02187n"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02759n"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01953n"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000160752""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000152904""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	2.5.1.1
+"<reaction metaid=""MAR9000005736"" sboTerm=""SBO:0000176"" id=""MAR9000005736"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005736"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R03245""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.4.2""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM00165e"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285e"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM00164e"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000163344""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.4.2
+"<reaction metaid=""MAR9000005734"" sboTerm=""SBO:0000176"" id=""MAR9000005734"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005734"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R01121""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/4.1.1.33""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM00164c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01285c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02751c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02187c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01596c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000167508""/>
+</fbc:geneProductAssociation>
+</reaction>"	4.1.1.33
+"<reaction metaid=""MAR9000005733"" sboTerm=""SBO:0000176"" id=""MAR9000005733"" reversible=""true"" fast=""false"" fbc:lowerFluxBound=""FB1N1000"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005733"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R01123""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/5.3.3.2""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM02187x"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01706x"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000067064""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000148377""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	5.3.3.2
+"<reaction metaid=""MAR9000005732"" sboTerm=""SBO:0000176"" id=""MAR9000005732"" reversible=""true"" fast=""false"" fbc:lowerFluxBound=""FB1N1000"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005732"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R01123""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/5.3.3.2""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM02187c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM01706c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:or>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000067064""/>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000148377""/>
+</fbc:or>
+</fbc:geneProductAssociation>
+</reaction>"	5.3.3.2
+"<reaction metaid=""MAR9000005730"" sboTerm=""SBO:0000176"" id=""MAR9000005730"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005730"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R02082""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.34""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM00167x"" stoichiometry=""1.0346861395871367"" constant=""true""/>
+<speciesReference species=""MAM01597x"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM02554x"" stoichiometry=""1.0137855170154004"" constant=""true""/>
+<speciesReference species=""MAM02039x"" stoichiometry=""1.0329424706267847"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02040x"" stoichiometry=""1.0082034358470253"" constant=""true""/>
+<speciesReference species=""MAM02131x"" stoichiometry=""1.0184548050367457"" constant=""true""/>
+<speciesReference species=""MAM02555x"" stoichiometry=""1.001685156579132"" constant=""true""/>
+<speciesReference species=""MAM02039x"" stoichiometry=""1.0320881898609746"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000113161""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.34
+"<reaction metaid=""MAR9000005729"" sboTerm=""SBO:0000176"" id=""MAR9000005729"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005729"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R02082""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.1.1.34""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM00167r"" stoichiometry=""1.0346861395871367"" constant=""true""/>
+<speciesReference species=""MAM01597r"" stoichiometry=""1.0"" constant=""true""/>
+<speciesReference species=""MAM02554r"" stoichiometry=""1.0137855170154004"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1.0329424706267847"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02040r"" stoichiometry=""1.0082034358470253"" constant=""true""/>
+<speciesReference species=""MAM02131r"" stoichiometry=""1.0184548050367457"" constant=""true""/>
+<speciesReference species=""MAM02555r"" stoichiometry=""1.001685156579132"" constant=""true""/>
+<speciesReference species=""MAM02039r"" stoichiometry=""1.0320881898609746"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000113161""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.1.1.34
+"<reaction metaid=""MAR9000005728"" sboTerm=""SBO:0000176"" id=""MAR9000005728"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005728"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R02245""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.1.36""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371x"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM00167x"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039x"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01285x"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM00165x"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000110921""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.1.36
+"<reaction metaid=""MAR9000005727"" sboTerm=""SBO:0000176"" id=""MAR9000005727"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005727"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R02245""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/2.7.1.36""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM01371c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM00167c"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM02039c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM01285c"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM00165c"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000110921""/>
+</fbc:geneProductAssociation>
+</reaction>"	2.7.1.36
+"<reaction metaid=""MAR9000005721"" sboTerm=""SBO:0000176"" id=""MAR9000005721"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005721"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R03816""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.6.5.2""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM02744sy2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553sy2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039sy2"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM03159sy2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552sy2"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000181019""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.6.5.2
+"<reaction metaid=""MAR9000005719"" sboTerm=""SBO:0000176"" id=""MAR9000005719"" reversible=""false"" fast=""false"" fbc:lowerFluxBound=""FB2N0"" fbc:upperFluxBound=""FB3N1000"">
+<notes>
+<body xmlns=""http://www.w3.org/1999/xhtml"">
+<p>Confidence Level:0</p>
+</body>
+</notes>
+<annotation>
+<rdf:RDF xmlns:rdf=""http://www.w3.org/1999/02/22-rdf-syntax-ns#"" xmlns:dcterms=""http://purl.org/dc/terms/"" xmlns:vCard=""http://www.w3.org/2001/vcard-rdf/3.0#"" xmlns:vCard4=""http://www.w3.org/2006/vcard/ns#"" xmlns:bqbiol=""http://biomodels.net/biology-qualifiers/"" xmlns:bqmodel=""http://biomodels.net/model-qualifiers/"">
+<rdf:Description rdf:about=""#MAR9000005719"">
+<bqbiol:is>
+<rdf:Bag>
+<rdf:li rdf:resource=""https://identifiers.org/kegg.reaction/R03816""/>
+<rdf:li rdf:resource=""https://identifiers.org/ec-code/1.6.5.2""/>
+</rdf:Bag>
+</bqbiol:is>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference species=""MAM02744de2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02553de2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02039de2"" stoichiometry=""1"" constant=""true""/>
+</listOfReactants>
+<listOfProducts>
+<speciesReference species=""MAM03159de2"" stoichiometry=""1"" constant=""true""/>
+<speciesReference species=""MAM02552de2"" stoichiometry=""1"" constant=""true""/>
+</listOfProducts>
+<fbc:geneProductAssociation>
+<fbc:geneProductRef fbc:geneProduct=""ENSG00000181019""/>
+</fbc:geneProductAssociation>
+</reaction>"	1.6.5.2

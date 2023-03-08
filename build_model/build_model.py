@@ -301,7 +301,7 @@ model3 = read_sbml_model(Output3)
 model3_sec_copy = copy.deepcopy(model3)
 
 ########################### Evaluate and Correct the model ############################
-model = read_sbml_model('model4_bb_2023-01-31.xml')
+model = read_sbml_model('models/THG-beta1.1.xml')
 
 model4 = copy.deepcopy(model3)
 

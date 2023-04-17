@@ -7,4 +7,4 @@
 		- Constritruction of SGPRs and GPRs (gpr.auth_gpr.getGPR)
 		- Identifies the cellular location of the metabolic reactions (gpr.getLocation.getLocation)
 		- Other functions for generate_database.py (functions_generate_database.py)
-		- Class for generate_database.py (class_generate_database.py)
+		- Classes for generate_database.py (class_generate_database.py)

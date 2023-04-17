@@ -12,11 +12,7 @@
 		- The function to write the new model
 
 2. models:
-	- Human-GEM_2022-06-21.xml
-		- Used reference model
-	- Human Database.xml 
-		- Used reference database (developed in THG/generate_data-base)
-	- THG-beta1.1.xml (new model)
-		- New model with enriched annotation (version 1.1)	
-	- THG-beta1.1.1.xml (new model)
-		- New model with enriched annotation (version 1.1.1)
+	- Human-GEM_2022-06-21.xml: Used reference model
+	- Human Database.xml:Used reference database (developed in THG/generate_data-base)
+	- THG-beta1.1.xml: New model with enriched annotation (version 1.1)	
+	- THG-beta1.1.1.xml: New model with enriched annotation (version 1.1.1)

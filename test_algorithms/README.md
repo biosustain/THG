@@ -1,6 +1,6 @@
 # test_algoritms
 
-8.  test_algoritms: Enrich gene, metabolite and reaction annotation of a reference model
+8.  test_algoritms:
 	- gpr_prediction: 
 		- Assessing the S-GPR building algorithm (getGPR) 
 	- mass_balance: 

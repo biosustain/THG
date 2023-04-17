@@ -6,3 +6,4 @@
 		- Mass balance metabolic reactions (equations_build_model.mass_balance)
 		- Constritruction of SGPRs and GPRs (gpr.auth_gpr.getGPR)
 		- Identifies the cellular location of the metabolic reactions (gpr.getLocation.getLocation)
+		- Other functions for build_model.py (function_build_model.py)

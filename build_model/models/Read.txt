@@ -1,0 +1,5 @@
+THG-beta1.1.xml Input model. New model with enriched annotation (version 1.1)
+THG-beta1.1.1.xml: New model with enriched annotation (version 1.1)
+THG-beta2-tmp.xml: Initial model
+THG-beta2.xml: THG-beta2-tmp.xml corrected
+THG-beta1.xml: THG-beta2.xml corrected

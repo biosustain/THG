@@ -8,6 +8,6 @@
 
 2. models:
 	- Human-GEM_2022-06-21.xml: Used reference model
-	- Human Database.xml: Used reference database (developed in THG/generate_data-base)
+	- Human Database.xml: Used reference database in function_reac_identification.execute_jaccard (developed in THG/generate_data-base)
 	- THG-beta1.1.xml: New model with enriched annotation (version 1.1)	
 	- THG-beta1.1.1.xml: New model with enriched annotation (version 1.1.1)

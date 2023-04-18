@@ -9,4 +9,6 @@
 
 To run test_gpr_prediction.py:
 
-```pytest test_gpr_prediction.py```
+```
+pytest test_gpr_prediction.py
+```

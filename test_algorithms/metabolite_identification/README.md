@@ -1,6 +1,6 @@
 # Metabolite identification
 
-1. test_metabolite_identification: Assess the metabolite identification algorithm (identify_metabolite)
+1. metabolite_identification: Assess the metabolite identification algorithm (identify_metabolite)
 	- test_metabolite_identification.py: 
 		- Apply the metabolite identification algorithm (functions_metabolite_identification.identify_metabolite)
 	- metabolite_identification.py:

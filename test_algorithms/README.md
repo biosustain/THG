@@ -1,6 +1,6 @@
-# test_algoritms
+# Test algoritms
 
-8.  test_algoritms:
+8.  Test algoritms:
 	- gpr_prediction: 
 		- Assessing the S-GPR building algorithm (getGPR) 
 	- mass_balance: 

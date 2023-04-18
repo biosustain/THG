@@ -6,3 +6,7 @@
 		- Other functions neccessary to run the test (functions_ast_gpr.py)
 	- gpr_prediction.py:
 		- Process test output
+
+To run test_gpr_prediction.py:
+
+```pytest test_gpr_prediction.py```

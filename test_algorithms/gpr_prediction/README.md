@@ -1,4 +1,4 @@
-# gpr prediction
+# GPR prediction
 
 1. gpr_prediction: Assess the S-GPR building algorithm (getGPR)
 	- test_gpr_prediction.py: 

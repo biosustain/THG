@@ -1,3 +1,4 @@
 ListOfCompartments.xlsx: File necessary to create bb.pickle
 bb.pickle: Dictionary necessary to keep the consistency between the database and the initial compartments in reference model
-human_kegg_pathways.txt: Input file 
+human_kegg_pathways.txt: Input file
+

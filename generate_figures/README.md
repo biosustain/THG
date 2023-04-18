@@ -2,3 +2,4 @@
 
 7. generate_figures: combines information from GEMs SBML files and the reports generated in "compare_models" to generate figures
 	- create_figures.py
+	  - functions_create_figure.py

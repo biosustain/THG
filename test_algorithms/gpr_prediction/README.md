@@ -5,7 +5,7 @@
 		- Apply the S-GPR building algorithm (functions_auth_gpr.getGPR)
 		- Other functions neccessary to run the test (functions_ast_gpr.py)
 	- gpr_prediction.py:
-		- Process test output
+		- Assess the S-GPR building algorithm and save the results
 
 To run test_gpr_prediction.py:
 

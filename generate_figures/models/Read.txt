@@ -1,4 +1,4 @@
 Human-GEM_2022-06-21.xml: Reference model
-THG-2023-02-25.xml: Merged model
-THG-beta2.xml: Model developed in build_model
-THG-beta1.xml: THG-beta2.xml corrected
+THG-2023-02-25.xml: THG (developed in (merge_metabolic_netowrks_and_network_consistency)
+THG-beta2.xml: THG-beta2 (developed in build_model)
+THG-beta1.xml: THG-beta2 corrected (developed in build_model)

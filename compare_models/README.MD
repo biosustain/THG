@@ -12,7 +12,6 @@ To run the script, use the following command:
 
 ```
 python3 compare_models.py
-
 ```
 ## Models and reports
 

@@ -2,7 +2,7 @@
 
 This repository is a python module to generates a metabolic network based using current available information from a large number of online databases.
 
-```generate_datanse.py``` is the main script and will use the following modules when run:
+```generate_database.py``` is the main script and will use the following modules when run:
 - Mass balance metabolic reactions (equations_generate_database.mass_balance)
 - Constritruction of SGPRs and GPRs (gpr.auth_gpr.getGPR)
 - Identifies the cellular location of the metabolic reactions (gpr.getLocation.getLocation)

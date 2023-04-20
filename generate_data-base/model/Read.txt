@@ -1,2 +1,2 @@
 Human Database.xml: Database developed (output file)
-Human-GEM_2022-06-21.xml: Reference model 
+Human-GEM_2022-06-21.xml: Reference human metabolism (Human1) model 

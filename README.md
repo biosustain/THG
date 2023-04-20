@@ -4,7 +4,7 @@
  
 One of the most recent reconstruction of human metabolism (Human1) was used as reference model to apply our protocol and generate The Human GEM (THG).
 
-<img src="https://raw.githubusercontent.com/biosustain/THG/main/repository_figure.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/biosustain/THG/main/repository_figure.png" width="500" height="800">
 
 ## Brief Protocol Description
 

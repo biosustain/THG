@@ -1,4 +1,4 @@
-# Generate_figures
+# Generate figures
 
 ## Brief Protocol Description 
 

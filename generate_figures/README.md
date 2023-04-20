@@ -1,14 +1,14 @@
 # Generate figures
 
-## Brief Protocol Description 
+This repository is a python module to combines information from GEMs SBML files and the reports generated in "compare_models" to generate figures.
 
-7. generate_figures: The script combines information from GEMs SBML files and the reports generated in "compare_models" to generate figures
-	- create_figures.py
-	  - functions_create_figure.py
-	  
+```generate_figures.py``` is the main script and will use the following modules when run:
+- functions_create_figure.py
+
+
 ## Usage
 
-To run the generate_figures script, use the following command:
+To run the script, use the following command:
 
 ```
 python3 generate_figures.py

@@ -1,6 +1,6 @@
 # Build model
 
-This repository is a python module to enrich gene annotation, curate and expands a metabolic network model based on information currently available in multiple online databases.
+The build model repository is a python module to enrich gene annotation, curate and expands a metabolic network model based on information currently available in multiple online databases.
 
 ```build_model.py``` is the main script and will use the following modules when run:
 - Mass balance metabolic reactions (equations_build_model.mass_balance)

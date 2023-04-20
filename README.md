@@ -1,6 +1,6 @@
 ﻿# The Human GEM (THG)
  
- ## What is THG?
+ ## What is The Human GEM?
  
 One of the most recent reconstruction of human metabolism (Human1) was used as reference model to apply our protocol and generate The Human GEM (THG).
 

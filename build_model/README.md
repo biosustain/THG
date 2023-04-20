@@ -12,7 +12,7 @@
 
 ## Usage
 
-To run the model building, use the following command:
+To run the model building script, use the following command:
 
 ```
 python3 build_model.py

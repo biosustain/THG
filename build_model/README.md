@@ -13,8 +13,6 @@
 ## Usage
 
 To run the model building, use the following command:
-		
-The code can be run as:
 
 ```
 python3 build_model.py

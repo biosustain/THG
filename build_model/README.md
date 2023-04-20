@@ -16,6 +16,6 @@ To run the script, use the following command:
 python3 build_model.py
 ```
 
-## Model/file description:
+## Models and files
 
-A brief model/file description can be found in the respective folders. 
+The models and files can be found in the respective folder where a brief description can be read.  

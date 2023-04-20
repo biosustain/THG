@@ -1,6 +1,8 @@
 # build model
 
-3. build model: Enrich gene annotation, curate and expands a metabolic network model
+## Brief Protocol Description 
+
+3. build model: The code can be used to enrich gene annotation, curate and expands a metabolic network model
 
 	- build_model.py:
 		- Mass balance metabolic reactions (equations_build_model.mass_balance)

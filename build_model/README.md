@@ -9,6 +9,10 @@
 		- Constritruction of SGPRs and GPRs (gpr.auth_gpr.getGPR)
 		- Identifies the cellular location of the metabolic reactions (gpr.getLocation.getLocation)
 		- Other functions for build_model.py (function_build_model.py)
+
+## Usage
+
+To run the model building, use the following command:
 		
 The code can be run as:
 

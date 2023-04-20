@@ -1,8 +1,8 @@
 # Build model
 
-## Brief Protocol Description 
+This repository is a python module to enrich gene annotation, curate and expands a metabolic network model based on information currently available in multiple online databases.
 
-3. build model: The script enrich gene annotation, curate and expands a metabolic network model based on information currently available in multiple online databases.
+3. Build model: 
 
 	- build_model.py:
 		- Mass balance metabolic reactions (equations_build_model.mass_balance)
@@ -12,7 +12,7 @@
 
 ## Usage
 
-To run the model building script, use the following command:
+To run the script, use the following command:
 
 ```
 python3 build_model.py

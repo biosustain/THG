@@ -1,5 +1,5 @@
 THG-beta1.1.xml Input model. New model with enriched annotation (version 1.1)
 THG-beta1.1.1.xml: New model with enriched annotation (version 1.1)
 THG-beta2-tmp.xml: Initial model
-THG-beta2.xml: THG-beta2-tmp.xml corrected
-THG-beta1.xml: THG-beta2.xml corrected
+THG-beta2.xml: Corrects gene-protein-reaction association, identify isoenzyme activities and expand the model accordingly
+THG-beta1.xml: Checks and corrects the mass balance consistency and improves annotation of the different moieties

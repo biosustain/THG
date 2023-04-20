@@ -1,4 +1,4 @@
-# Reac identification
+# Reaction identification
 
 This repository is a python module to evaulute the reaction identification algorithm (functions_reac_identification.py.execute_jaccard)
 

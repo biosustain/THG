@@ -18,4 +18,4 @@ python3 build_model.py
 
 ## Models and files
 
-The models and files can be found in the respective folder where a brief description can be read.  
+The models and files can be found in the respective folder where a brief description can be read (read.txt)

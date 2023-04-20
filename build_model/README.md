@@ -1,4 +1,4 @@
-# build model
+# Build model
 
 ## Brief Protocol Description 
 

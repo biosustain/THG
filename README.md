@@ -2,6 +2,9 @@
  
  ## What is THG?
  
+One of the most recent reconstruction of human metabolism (Human1) was used as reference model to apply our protocol and generate The Human GEM (THG)
+
+
 A protocol for the automatic construction of highly curated genome-scale models of human metabolism.
 
 The protocol enables the automatic curation and/or expansion of existing human GEMs or generates a highly curated metabolic network based on the current information retrieved from multiple databases in real time.

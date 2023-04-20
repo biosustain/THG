@@ -4,7 +4,7 @@
  
 One of the most recent reconstruction of human metabolism (Human1) was used as reference model to apply our protocol and generate THG (figure). THG accounts for 18.136 reactions, 12.919 metabolites, 3.174 genes, 13.188 gene-protein-reaction associations and 9 compartments. The GEMs generated using the developed protocol got similar MEMOTE scores to the reference model. THGβ1 got an score of 82 and THGβ2 and THG got 81, while the reference model was scored with 81.
 
-<img src="https://raw.githubusercontent.com/biosustain/THG/main/repository_figure.png" width="550" height="900">
+<img src="https://raw.githubusercontent.com/biosustain/THG/main/repository_figure.png" width="600" height="900">
 
 ## Brief Protocol Description
 

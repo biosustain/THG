@@ -4,6 +4,8 @@
  
 One of the most recent reconstruction of human metabolism (Human1) was used as reference model to apply our protocol and generate The Human GEM (THG).
 
+![Screenshot](repository_figure.png)
+
 ## Brief Protocol Description
 
 A protocol for the automatic construction of highly curated genome-scale models of human metabolism.

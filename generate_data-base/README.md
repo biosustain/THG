@@ -1,4 +1,4 @@
-# Generate_database
+# Generate database
 
 ## Brief Protocol Description 		
 

@@ -2,7 +2,7 @@
 
 This repository is a python module to evalute the metabolite identification algorithm (identify_metabolite)
 
-"test_metabolite_identification.py" is the script to execute the mass balance function and will use the following modules when run:
+"test_metabolite_identification.py" is the script to execute the identify_metabolite function and will use the following modules when run:
 - functions_metabolite_identification
 
 The result file can be generated from "metabolite_identification.py" and is saved in the ```files``` folder

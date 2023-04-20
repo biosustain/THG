@@ -1,4 +1,4 @@
-Human-GEM_2022-06-21.xml: Reference 
-THG-2023-02-25.xml: THG (developed in merge_metabolic_netowrks_and_network_consistency)
-THG-beta2.xml: THG-beta2 (developed in build_model)
-THG-beta1.xml: THG-beta2 corrected (developed in build_model)
+Human-GEM_2022-06-21.xml: Reference human metabolism (Human1) model 
+THG-2023-02-25.xml: THG developed by merge_metabolic_netowrks_and_network_consistency.py
+THG-beta2.xml: THG-beta2 (corrects gene-protein-reaction association, identify isoenzyme activities and expand the model accordingly) developed by build_model.py 
+THG-beta1.xml: THG-beta1 (checks and corrects the mass balance consistency and improves annotation of the different moieties) developed by build_model.py

@@ -1,13 +1,14 @@
 # Compare models
 
-## Brief Protocol Description 
+This repository is a python module to generate a report comparing two GEMs.
 
-6. compare_models: The script genereates a report comparing two GEMs:
-	- compare_models.py
-		- functions_compare_models.py
+```compare_models.py``` is the main script and will use the following modules when run:
+- functions_compare_models.py
+
+
 ## Usage
 
-To run the compare models script, use the following command:
+To run the script, use the following command:
 
 ```
 python3 compare_models.py

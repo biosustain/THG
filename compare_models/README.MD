@@ -14,6 +14,6 @@ To run the script, use the following command:
 python3 compare_models.py
 
 ```
-## Models and files
+## Models and reports
 
-The models and files can be found in the respective folder where a brief description can be read.  
+The models and reports can be found in the respective folder where a brief description can be read.  

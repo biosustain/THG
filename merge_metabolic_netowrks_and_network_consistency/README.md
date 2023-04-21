@@ -5,7 +5,7 @@ The merge metabolic networks and network consistency repository is a python modu
 ```merge_metabolic_networks.py``` is the main script and will execute the following tasks when run:
 - Mass balance metabolic reactions (functions_mass_balance.mass_balance)
 - MEMOTE function that checks is a GEM is stoichiometricaly consistent (functions_network_consistency.test_stoichiometric_consistency)
-- Other tasks (functions_merge_metabolic_networks.py)
+- Functions necessary to run the script (functions_merge_metabolic_networks.py)
 
 
 ## Usage

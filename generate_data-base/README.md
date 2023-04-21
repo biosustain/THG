@@ -6,8 +6,8 @@ The generate database repository is a python module to generates a metabolic net
 - Mass balance metabolic reactions (equations_generate_database.mass_balance)
 - Construct SGPRs and GPRs (gpr.auth_gpr.getGPR)
 - Identifies the cellular location of the metabolic reactions (gpr.getLocation.getLocation)
-- Other tasks (functions_generate_database.py)
-- Other tasks (class_generate_database.py)
+- Functions necessary to run the script (functions_generate_database.py)
+- Classes necessary to run the script (class_generate_database.py)
 
 ## Usage
 

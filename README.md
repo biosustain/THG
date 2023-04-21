@@ -8,8 +8,7 @@ Please cite https://github.com/biosustain/THG if you use THG in your research.
 
 ## User guide 
 
-User guide and protocol description can be found below and in the respective folders.
-
+Installation instructions and use of the repository can be found below and in the respective folders.
 
 ## Model Overview
 

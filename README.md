@@ -69,8 +69,7 @@ The different steps in the protocol can be found in different folders and can be
 7. generate_figures: combines information from GEMs SBML files and the reports generated in "compare_models" to generate figures
 	- create_figures.py
 
-## Installation
-## getGPR and getLocation
+## Installation of getGPR and getLocation
 
 First, install the repository:
 

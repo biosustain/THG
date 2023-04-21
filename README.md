@@ -15,7 +15,7 @@ Installation instructions and use of the repository can be found below and in th
 
 | Model | Developed from | Reactions | Metabolites | Genes | GPRs | Compartments |
 | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
-| Network Model | Online databases | 2.930 | 3.849| 1.4.85 | 2.838 | 9 |
+| Network Model | Online databases | 2.930 | 3.849| 1.485 | 2.838 | 9 |
 | Human1&ast; | HMR2, Recon3D, iHsa  | 13.069 | 8.369| 3.067 | 8.022 | 9 |
 | THG-beta1 | Human1&ast;  | 13.069 | 8.369| 3.067 | 8.022 | 9 |
 | THG-beta2 | Human1&ast;  | 18.136 | 12.919 | 3.174 | 13.188 | 9 |

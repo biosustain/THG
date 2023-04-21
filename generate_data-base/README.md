@@ -1,6 +1,6 @@
 # Generate databae
 
-This repository is a python module to generates a metabolic network based using current available information from a large number of online databases.
+The generate database repository is a python module to generates a metabolic network based using current available information from a large number of online databases.
 
 ```generate_database.py``` is the main script and will execute the following tasks when run:
 - Mass balance metabolic reactions (equations_generate_database.mass_balance)

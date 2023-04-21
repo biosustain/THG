@@ -13,7 +13,7 @@ Installation instructions and use of the repository can be found below and in th
 ## Model Overview
 
 
-| Model | Developed from | Reactions | Metabolites | Genes | GPRs | Compartments |
+| Model | Source | Reactions | Metabolites | Genes | GPRs | Compartments |
 | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
 | Network Model | Online databases | 2.930 | 3.849| 1.485 | 2.838 | 9 |
 | Human1&ast; | HMR2, Recon3D, iHsa  | 13.069 | 8.369| 3.067 | 8.022 | 9 |

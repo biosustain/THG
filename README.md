@@ -14,7 +14,7 @@ Use of the repository and installation instructions and can be found below and i
 
 One of the most recent reconstruction of human metabolism (Human1)&ast; was used as reference model to apply our protocol and generate THG. 
 
-| Model | Source | Reactions | Metabolites | Genes | GPRs | Compartments |
+| Model | Source | Reactions | Metabolites | Genes | GPRs | Comp. |
 | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
 | Network Model | Online databases | 2.930 | 3.849| 1.485 | 2.838 | 9 |
 | Human1&ast; | HMR2, Recon3D, iHsa  | 13.069 | 8.369| 3.067 | 8.022 | 9 |

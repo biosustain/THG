@@ -1,4 +1,4 @@
-# THG: The most comprehensive general construction of human metabolism to date
+# The Human GEM (THG): The most comprehensive general construction of human metabolism to date
 
 A protocol for the automatic construction of highly curated genome-scale models of human metabolism.
 

@@ -2,7 +2,7 @@
 
 This repository is a python module to evalute the S-GPR building algorithm (functions_auth_gpr.getGPR)
 
-"test_gpr_prediction.py" is the script to execute the getGPR function and will use the following modules when run:
+"test_gpr_prediction.py" is the script to execute the getGPR function and uses the following modules when run:
 - functions_auth_gpr
 - functions_ast_gpr
 

@@ -6,7 +6,7 @@ The protocol enables the automatic curation and/or expansion of existing human G
 
 Please cite https://github.com/biosustain/THG if you use THG in your research. 
 
-## User guide 
+## User Guide 
 
 Installation instructions and use of the repository can be found below and in the respective folders.
 

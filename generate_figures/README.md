@@ -1,6 +1,6 @@
 # Generate figures
 
-This repository is a python module to combines information from GEMs SBML files and the reports generated in "compare_models" to generate figures.
+The generate figures repository is a python module to combines information from GEMs SBML files and the reports generated in "compare_models" to generate figures.
 
 ```generate_figures.py``` is the main script and will use the following modules when run:
 - functions_create_figure.py

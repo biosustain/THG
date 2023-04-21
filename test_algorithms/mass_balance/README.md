@@ -2,7 +2,7 @@
 
 The mass balance repository is a python module to evalute the mass balance algorithm (equations_mass_balance.py.mass_balance)
 
-```mass_balance.py``` is the script to execute and evalute the mass_balance function and use the following modules when run
+```mass_balance.py``` is the script to execute and evalute the mass_balance function and uses the following modules when run
 -  equations_mass_balance
 
 ## Usage

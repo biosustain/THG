@@ -1,6 +1,6 @@
 # Reaction identification
 
-This repository is a python module to evaulute the reaction identification algorithm (functions_reac_identification.py.execute_jaccard)
+The reaction identification repository is a python module to evaulute the reaction identification algorithm (functions_reac_identification.py.execute_jaccard)
 
 "test_reac_identification.py" is the script to execute the getGPR function and will use the following modules when run:
 - functions_reac_identification

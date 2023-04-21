@@ -12,6 +12,7 @@ Installation instructions and use of the repository can be found below and in th
 
 ## Model Overview
 
+One of the most recent reconstruction of human metabolism (Human1)&ast; was used as reference model to apply our protocol and generate THG. 
 
 | Model | Source | Reactions | Metabolites | Genes | GPRs | Compartments |
 | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- |

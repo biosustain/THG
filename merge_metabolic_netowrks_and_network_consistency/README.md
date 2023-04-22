@@ -13,5 +13,5 @@ merge_metabolic_networks.py:
 To run the metabolic network merging and network consistency:
 
 ```
-merge_metabolic_networks.py
+python3 merge_metabolic_networks.py
 ```

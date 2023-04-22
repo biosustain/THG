@@ -1,2 +1,0 @@
-ec-number-results.csv: Pytest output file
-gpr_prediction.xlsx: Result file 

@@ -2,7 +2,7 @@
 
 The generate database directory is a python module to generates a metabolic network based using current available information from a large number of online databases.
 
-```generate_database.py```:
+generate_database.py:
 - Mass balance metabolic reactions (equations_generate_database.mass_balance)
 - Construct SGPRs and GPRs (gpr.auth_gpr.getGPR)
 - Identifies the cellular location of the metabolic reactions (gpr.getLocation.getLocation)

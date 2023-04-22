@@ -8,14 +8,11 @@ The metabolite reac identification repository is a python module to enrich metab
 - Writes the new model (function_annotate_cobra_model.annotate_cobra_model)
 
 
-## Usage
+## Running metabolite reac identification
 
-To run the script, use the following command:
+To run the metabolite reac identification:
 
 ```
-metabolite_reac_identification.py
+python3 metabolite_reac_identification.py
 ```
 
-## Models and files
-
-The models and files can be found in the respective folder where a brief description can be read.

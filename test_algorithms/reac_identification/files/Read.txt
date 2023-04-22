@@ -1,2 +1,0 @@
-reac_identification.xlsx: Result file
-reac_results.csv: Pytest output file

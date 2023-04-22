@@ -1,7 +1,0 @@
-kegg.tsv: Input file from reference database
-met_results_010.csv: Pytest output file (function tested at a threshold of 0.10)
-met_results_060.csv: Pytest output file 
-met_results_070.csv: Pytest output file 
-met_results_080.csv: Pytest output file 
-met_results_082.csv: Pytest output file 
-metabolite_identification.xlsx: Result file 

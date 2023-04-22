@@ -9,9 +9,9 @@ generate_database.py:
 - Additional functions necessary to run the script (functions_generate_database.py)
 - Classes necessary to run the script (class_generate_database.py)
 
-## Usage
+## Running generate database
 
-To run the script, use the following command:
+To run the database generation:
 
 ```
 python3 generate_database.py

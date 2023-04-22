@@ -6,9 +6,9 @@ The compare models directory is a python module to generate a report comparing t
 - functions_compare_models.py
 
 
-## Usage
+## Running compare models
 
-To run the script, use the following command:
+To run the model comparison:
 
 ```
 python3 compare_models.py

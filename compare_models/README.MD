@@ -1,8 +1,8 @@
 # Compare models
 
-The compare models repository is a python module to generate a report comparing two GEMs.
+The compare models directory is a python module to generate a report comparing two GEMs.
 
-```compare_models.py``` is the main script and will use the following modules when run:
+```compare_models.py```:
 - functions_compare_models.py
 
 
@@ -13,6 +13,4 @@ To run the script, use the following command:
 ```
 python3 compare_models.py
 ```
-## Models and reports
 
-The models and reports can be found in the respective folder where a brief description can be read.  

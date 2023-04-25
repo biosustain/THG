@@ -1,6 +1,6 @@
 # Merge metabolic network and network consistency
 
-The merge metabolic networks and network consistency repository is a python module to merge two metabolic network while ensuring the consistency of the new model in a interative fashion.
+The "merge_metabolic_networks_and_network_consistency" repository is a python module to merge two metabolic network while ensuring the consistency of the new metabolic network model in a interative fashion.
 
 merge_metabolic_networks.py:
 - Mass balance metabolic reactions (functions_mass_balance.mass_balance)

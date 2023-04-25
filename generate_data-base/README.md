@@ -1,6 +1,6 @@
 # Generate databae
 
-The generate database directory is a python module to generates a metabolic network based using current available information from a large number of online databases.
+The generate database directory is a python module to generates a metabolic network by gathering currently available information from a large number of online databases.
 
 generate_database.py:
 - Mass balance metabolic reactions (equations_generate_database.mass_balance)

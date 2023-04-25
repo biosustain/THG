@@ -1,6 +1,6 @@
 # Memote tasks
 
-This repository is a python module `metabolic_tasks` and extra tests for memote `tests_extra` that will use the python module to run tests perfoming metabolic tasks when called from memote.
+This repository is a python module for MEMOTE and/or metabolic task analyses.
 
 ## Memote setup
 
